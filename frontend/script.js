@@ -1,4 +1,4 @@
-const api = "http://localhost:5000/food";
+const api = "https://shareplate-backend-fxzp.onrender.com";
 
 if(document.getElementById("foodForm")){
 document.getElementById("foodForm").addEventListener("submit", async(e)=>{
